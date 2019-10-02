@@ -1,0 +1,41 @@
+body {
+  background-image: url('grijs.jpg');
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+div.a{
+  font-size: 36px;
+  line-height: 36px;
+}
+div.b{
+  font-size: 24px;
+  line-height: 32px;
+  padding-bottom: 20px;
+}
+div.c{
+  font-size: 32px;
+  line-height: 32px;
+  padding-bottom: 20px;
+}
+div.d{
+  font-size: 20px;
+  line-height: 26px;
+  padding-bottom: 20px;
+}
+
+div.e{
+  border: 1px solid #def6ed;
+  background-color: #def6ed;
+  width: 39%;
+  padding: 10px 20px 10px 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  float: center;
+}
+
+li {
+  line-height: 40px
+}
